@@ -442,7 +442,7 @@ row = [
             ], 
             body=True, 
             className = "card_nav",
-            color="primary"
+            color="#4C9BE8"
         ),
         dbc.Row(
             children = [
@@ -1108,7 +1108,7 @@ row = [
                             )
                         )
                     ],
-                    color="primary"
+                    color="#4C9BE8"
                 )
             ],
             className="Row_footer"
