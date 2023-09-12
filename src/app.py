@@ -347,7 +347,7 @@ navbar =  dbc.Nav(
         dbc.Button(
             [
                 "Notifications",
-                dbc.Badge("4", color="primary", text_color="dark", className="ms-1 notify"),
+                dbc.Badge("4", color="#4C9BE8", text_color="dark", className="ms-1 notify"),
             ],
             color="secondary",
             className="notify"
