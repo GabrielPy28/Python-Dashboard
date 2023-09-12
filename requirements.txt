@@ -25,7 +25,6 @@ numpy==1.21.6
 packaging==23.1
 pandas==1.3.5
 plotly==5.16.0
-pyproj==3.2.1
 python-dateutil==2.8.2
 pytz==2023.3
 requests==2.31.0
